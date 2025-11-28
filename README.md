@@ -2,7 +2,7 @@
 
 💼 Post Electrical Process Technician at Micron Memory Malaysia
 📍 Based in Penang, Malaysia
-📜 Graduate from Politeknik Seberang Perai under Diploma of Engineering Electronic Computer
+📜 Diploma of Engineering Electronic Computer at Polytechnic Seberang Perai
 
 🌟 About Me  
 - 🔍 Passionate about **technology, investing, and continuous learning**  
