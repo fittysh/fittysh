@@ -1,17 +1,30 @@
-## Hi Githubbies !! Im Fitri | 26 years old | MY 👋
-Nice to know you!! ✨
+👋 Hi, I'm Fitri Shamsudin , call me Fit! 
 
-<!--
-**fittysh/fittysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Post Electrical Process Technician at Micron Memory Malaysia
+📍 Based in Penang, Malaysia
+📜 Graduate from Politeknik Seberang Perai under Diploma of Engineering Electronic Computer
 
-Here are some ideas to get you started:
+🌟 About Me  
+- 🔍 Passionate about **technology, investing, and continuous learning**  
+- 📚 Currently exploring:
+  - ✅ **Full-Stack Web Development** (with AI integration in mind)  
+  - ✅ **Stock & Crypto Value Investing**  
+- 💡 Always curious about **automation, AI tools, and financial strategies**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack  
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Tools:** Git, Node.js, React, Docker  
+- **Learning:** AI-powered development, REST APIs
+
+📈 Interests  
+- 💻 Building smart web apps  
+- 📊 Analyzing financial statements & ratios  
+- 🌐 Exploring blockchain & crypto trends  
+
+📫 Connect With Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fitrishamsudin/)  
+- 📧 Email: fittygamingz@gmail.com
+- 🔗 [Instagram](https://www.instagram.com/fittysh/)  
+
+⚡ My believe on the future  
+I believe **technology + finance = freedom** 🚀  
